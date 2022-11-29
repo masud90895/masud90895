@@ -8,15 +8,16 @@
 
 <p align="left"> <a href="https://twitter.com/masud90895" target="blank"><img src="https://img.shields.io/twitter/follow/masud90895?logo=twitter&style=for-the-badge" alt="masud90895" /></a> </p>
 
-- 🌱 I’m currently learning **Programming-Hero**
+- 🌱 I’m currently learning **matarial UI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/masud90895](https://github.com/masud90895)
 
-- 💬 Ask me about **HTML CSS Bootstrap tailwind API JavaScript Etc**
+- 💬 Ask me about **HTML CSS Bootstrap tailwind daisy UI JavaScript React Node JS Firebase MongoDB Etc**
 
 - 📫 How to reach me **masudhossainmbs129@gmail.com**
+- 📫 Here is my resume **https://drive.google.com/file/d/1kQ_boGFW2D-jjiiX-d9TVIdQm7Em_7mz/view?usp=sharing**
 
-- ⚡ Fun fact **I thing i am funny**
+- ⚡ Fun fact **I love to code as always**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
