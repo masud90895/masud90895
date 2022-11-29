@@ -10,12 +10,12 @@
 
 - 🌱 I’m currently learning **matarial UI**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/masud90895)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/masud90895)
 
 - 💬 Ask me about **HTML CSS Bootstrap tailwind daisy UI JavaScript React Node JS Firebase MongoDB Etc**
 
 - 📫 How to reach me **masudhossainmbs129@gmail.com**
-- 📫 Here is my resume **https://drive.google.com/file/d/1kQ_boGFW2D-jjiiX-d9TVIdQm7Em_7mz/view?usp=sharing**
+- 📫 Here is my resume [Resume](https://drive.google.com/file/d/1kQ_boGFW2D-jjiiX-d9TVIdQm7Em_7mz/view?usp=sharing)
 
 - ⚡ Fun fact **I love to code as always**
 
