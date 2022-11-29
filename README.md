@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **matarial UI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/masud90895](https://github.com/masud90895)
+- 👨‍💻 All of my projects are available at [github](https://github.com/masud90895)
 
 - 💬 Ask me about **HTML CSS Bootstrap tailwind daisy UI JavaScript React Node JS Firebase MongoDB Etc**
 
