@@ -1,4 +1,4 @@
-![Md Mahafuhyr Rahaman Masud](https://i.ibb.co/99mqKkM/Navy-Blue-Gradient-Personal-Linked-In-Banner-2.png)
+![Md Mahafuhyr Rahaman Masud]([https://i.ibb.co/99mqKkM/Navy-Blue-Gradient-Personal-Linked-In-Banner-2.png](https://i.ibb.co/h2nJ86y/Purple-And-White-Modern-HR-Specialist-Linkedin-Article-Cover-Image.png))
 <h1 align="center">Hi 👋, I'm Md. Mahafujur Rahaman Masud</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh 🇧🇩</h3>
 
