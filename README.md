@@ -2,14 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md. Mahafujur Rahaman Masud</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh 🇧🇩</h3>
 <p align="center"> Myself Md. Mahafujur Rahaman Masud. At present, I am an undergraduate at Thakurgoan Govt College
-in Mathematics. Besides my study, I am a positive, enthusiastic, and
-competent MERN Stack Web Developer. It's been 1 year; I’m working as a web developer.
-I've worked on a number of websites and contributed to several excellent web design projects.
-I have extensive experience working both alone and as part of a team on often time-sensitive,
-challenging web development projects that require outstanding creative and technical
-capabilities and the ability to ensure all work is optimized across a wide range of platforms. As
-a Web Developer, I take my job seriously, which means I always make sure my abilities are up
-to date in this rapidly changing field.</p>
+in Mathematics. Besides my study, I am a positive, enthusiastic, and competent Full Stack Web Developer. It's been 1 year; I’m working as a web developer.I've worked on a number of websites and contributed to several excellent web design projects.I have extensive experience working both alone and as part of a team on often time-sensitive,challenging web development projects that require outstanding creative and technical capabilities and the ability to ensure all work is optimized across a wide range of platforms. As a Web Developer, I take my job seriously, which means I always make sure my abilities are up to date in this rapidly changing field.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masud90895&label=Profile%20views&color=0e75b6&style=flat" alt="masud90895" /> </p>
 
