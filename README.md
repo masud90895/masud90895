@@ -17,7 +17,7 @@ in Mathematics. Besides my study, I am a positive, enthusiastic, and competent F
 - 💬 Ask me about **HTML CSS Bootstrap tailwind daisy UI JavaScript React Node JS Firebase MongoDB Etc**
 
 - 📫 How to reach me **masudhossainmbs129@gmail.com**
-- 📫 Here is my resume [CV](https://drive.google.com/file/d/1pPo3Ita0W6M8zrwded6jJbPXZoOTQPQ1/view?usp=sharing)
+- 📫 Here is my [CV](https://drive.google.com/file/d/1pPo3Ita0W6M8zrwded6jJbPXZoOTQPQ1/view?usp=sharing)
 
 - ⚡ Fun fact **I love to code as always**
 
