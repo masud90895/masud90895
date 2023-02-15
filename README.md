@@ -1,4 +1,4 @@
-![Md Mahafuhyr Rahaman Masud](https://i.ibb.co/h2nJ86y/Purple-And-White-Modern-HR-Specialist-Linkedin-Article-Cover-Image.png)
+![Md Mahafuhyr Rahaman Masud](https://i.ibb.co/7RPPmcf/github-cover-Pic.jpg)
 <h1 align="center">Hi 👋, I'm Md. Mahafujur Rahaman Masud</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh 🇧🇩</h3>
 <p align="left"> Myself Md. Mahafujur Rahaman Masud. At present, I am an undergraduate at Thakurgoan Govt College
