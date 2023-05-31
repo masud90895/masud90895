@@ -1,4 +1,3 @@
-
 ![Md Mahafuhyr Rahaman Masud](https://i.ibb.co/7RPPmcf/github-cover-Pic.jpg)
 
 <h1 align="center">Hi 👋, I'm Md. Mahafujur Rahaman Masud</h1>
@@ -10,43 +9,61 @@ in Mathematics. Besides my study, I am a positive, enthusiastic, and competent F
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masud90895&label=Profile%20views&color=0e75b6&style=flat" alt="masud90895" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masud90895" alt="masud90895" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/masud90895" target="blank"><img src="https://img.shields.io/twitter/follow/masud90895?logo=twitter&style=for-the-badge" alt="masud90895" /></a> </p>
-
 <!-- about me section start -->
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const masud = {
-    pronouns: "He" | "Him",
-    code: ["Javascript"],
-    askMeAbout: ["web dev", "tech","photography"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Express"],
-        },
-        devOps: ["AWS", "Docker🐳"],
-        databases: [, "MongoDb","Mongoose","Prisma","PostgreSQL","GraphSQL"],
-        misc: ["Firebase"]
+  pronouns: "He" | "Him",
+  code: ["Javascript"],
+  askMeAbout: ["web dev", "tech", "photography"],
+  technologies: {
+    backEnd: {
+      js: ["Node", "Express"],
     },
-    architecture: ["Single page applications"],
-    currentFocus: "Learning Next Level",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    devOps: ["AWS", "Docker🐳"],
+    databases: [, "MongoDb", "Mongoose", "Prisma", "PostgreSQL", "GraphSQL"],
+    misc: ["Firebase"],
+  },
+  architecture: ["Single page applications"],
+  currentFocus: "Learning Next Level",
+  funFact:
+    "There are two ways to write error-free programs; only the third one works",
 };
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-
 ---
+
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C178%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-92312-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
+
+---
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Mongoose-informational?style=flat&logo=mongoose&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=amazon&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=6aa6f8)
+
+---
 
 
 <!-- about me section end -->
@@ -62,8 +79,6 @@ const masud = {
 
 - ⚡ Fun fact **I love to code as always** -->
 
-
-
 <!-- connect with me section  -->
 
 <h3 align="left">Connect with me:</h3>
@@ -75,11 +90,18 @@ const masud = {
 <a href="https://instagram.com/md._mahafujur_rahaman_masud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md._mahafujur_rahaman_masud" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masud90895&show_icons=true&locale=en&layout=compact" alt="masud90895" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masud90895&show_icons=true&locale=en" alt="masud90895" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masud90895&" alt="masud90895" /></p>
+
+---
+
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
