@@ -4,8 +4,15 @@
 
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh 🇧🇩</h3>
 
-<p align="left"> Myself Md. Mahafujur Rahaman Masud. At present, I am an undergraduate at Thakurgoan Govt College
-in Mathematics. Besides my study, I am a positive, enthusiastic, and competent Full Stack Web Developer. It's been 1 year; I’m working as a web developer.I've worked on a number of websites and contributed to several excellent web design projects.I have extensive experience working both alone and as part of a team on often time-sensitive,challenging web development projects that require outstanding creative and technical capabilities and the ability to ensure all work is optimized across a wide range of platforms. As a Web Developer, I take my job seriously, which means I always make sure my abilities are up to date in this rapidly changing field.</p>
+<p align="left">Hey! I'm Md. Mahafujur Rahaman Masud, currently pursuing my undergraduate degree in Mathematics at Thakurgoan Govt College.
+
+For the past year, I've been immersed in the world of Full Stack Web Development. I currently work as a MERN Stack developer at AIDE Business Solution, where I've contributed to various web projects, showcasing my skills in creative problem-solving and timely project delivery.
+
+I'm passionate about staying current in the ever-evolving tech landscape. My focus on Full Stack Web Development allows me to adapt to different platforms, ensuring my work is both creative and technically sound.
+
+Beyond my academic pursuits, I'm always open to connecting with like-minded individuals. If you're into tech or looking for a collaborative effort, let's chat and explore exciting possibilities!
+
+Feel free to reach out—I'm eager to discuss technology, share ideas, or explore potential collaborations.</p>
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masud90895&label=Profile%20views&color=0e75b6&style=flat" alt="masud90895" /> </p>
