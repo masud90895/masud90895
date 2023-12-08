@@ -24,13 +24,16 @@ Feel free to reach out—I'm eager to discuss technology, share ideas, or explor
 const masud = {
   pronouns: "He" | "Him",
   code: ["Javascript"],
-  askMeAbout: ["web dev", "tech", "photography"],
+  askMeAbout: ["Full Stack Development", "MERN Stack Development", "photography"]
   technologies: {
+   frontEnd: {
+      js: ["HTML", "CSS", Javascript, Taildwind, Bootstrap, ReactJS, Next. js, Typescript, Redux,Ant Design, Axios],
+    },
     backEnd: {
       js: ["Node", "Express"],
     },
     devOps: ["AWS", "Docker🐳"],
-    databases: [, "MongoDb", "Mongoose", "Prisma", "PostgreSQL", "GraphSQL"],
+    databases: ["MongoDb", "Mongoose", "Prisma", "PostgreSQL", "GraphSQL"],
     misc: ["Firebase"],
   },
   architecture: ["Single page applications"],
