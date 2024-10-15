@@ -22,23 +22,26 @@ If you're into tech, want to collaborate, or just chat about new ideas, feel fre
 ```javascript
 const masud = {
   pronouns: "He" | "Him",
-  code: ["Javascript"],
-  askMeAbout: ["Full Stack Development", "MERN Stack Development", "photography"]
+  code: ["JavaScript", "TypeScript"],
+  askMeAbout: ["Full Stack Development", "MERN Stack", "React Native", "Tech Trends", "Photography"],
   technologies: {
-   frontEnd: {
-      js: ["HTML", "CSS", Javascript, Taildwind, Bootstrap, ReactJS, Next. js, Typescript, Redux,Ant Design, Axios],
+    frontEnd: {
+      js: ["HTML", "CSS", JavaScript", Tailwind", "Bootstrap", "ReactJS", "Next.js", "TypeScript", "Redux", "Ant Design", "Axios"],
     },
     backEnd: {
-      js: ["Node", "Express"],
+      js: ["Node.js", "Express.js"],
     },
     devOps: ["AWS", "Docker🐳"],
-    databases: ["MongoDb", "Mongoose", "Prisma", "PostgreSQL", "GraphSQL"],
+    databases: ["MongoDB", "Mongoose", "Prisma", "PostgreSQL", "MySQL", "GraphQL"],
+    mobile: ["React Native"],
     misc: ["Firebase"],
   },
-  architecture: ["Single page applications"],
-  currentFocus: "Learning Next Level",
-  funFact:
-    "There are two ways to write error-free programs; only the third one works",
+  architecture: ["Single Page Applications", "REST APIs", "Microservices"],
+  currentFocus: "Mastering React Native and Next.js",
+  funFact: "The only constant in technology is change, and I thrive on learning something new every day.",
+
+};
+
 };
 ```
 
