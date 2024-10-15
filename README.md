@@ -2,17 +2,16 @@
 
 <h1 align="center">Hi 👋, I'm Md. Mahafujur Rahaman Masud</h1>
 
-<h3 align="center">A passionate Full Stack Web Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">Software Engineer | Full Stack & React Native Developer | Innovating Web and Mobile Solutions</h3>
 
-<p align="left">Hey! I'm Md. Mahafujur Rahaman Masud, currently pursuing my undergraduate degree in Mathematics at Thakurgoan Govt College.
+<p align="left">Hey! I'm Md. Mahafujur Rahaman Masud, a Software Engineer with a passion for building innovative tech solutions.
+I'm currently pursuing my undergraduate degree in Mathematics at Thakurgoan Govt College.
 
-For the past year, I've been immersed in the world of Full Stack Web Development. I currently work as a MERN Stack developer at AIDE Business Solution, where I've contributed to various web projects, showcasing my skills in creative problem-solving and timely project delivery.
+With over a year of experience in Full Stack Web Development and a growing focus on React Native, I work as a Software Engineer at Code Act Soft. Previously, I was a MERN Stack Developer at Aide Business Solution, where I contributed to a range of web projects, focusing on creativity and technical efficiency.
 
-I'm passionate about staying current in the ever-evolving tech landscape. My focus on Full Stack Web Development allows me to adapt to different platforms, ensuring my work is both creative and technically sound.
+I'm always eager to stay up-to-date with the latest tech trends, especially in web and mobile app development. Whether it's delivering web applications or building mobile apps, I thrive on solving real-world problems with clean, effective solutions.
 
-Beyond my academic pursuits, I'm always open to connecting with like-minded individuals. If you're into tech or looking for a collaborative effort, let's chat and explore exciting possibilities!
-
-Feel free to reach out—I'm eager to discuss technology, share ideas, or explore potential collaborations.</p>
+If you're into tech, want to collaborate, or just chat about new ideas, feel free to reach out—I'm always open to connecting with like-minded people!</p>
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masud90895&label=Profile%20views&color=0e75b6&style=flat" alt="masud90895" /> </p>
