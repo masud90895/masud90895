@@ -4,14 +4,18 @@
 
 <h3 align="center">Software Engineer | Full Stack & React Native Developer | Innovating Web and Mobile Solutions</h3>
 
-<p align="left">Hey! I'm Md. Mahafujur Rahaman Masud, a Software Engineer with a passion for building innovative tech solutions.
-I'm currently pursuing my undergraduate degree in Mathematics at Thakurgoan Govt College.
+<p align="left">Hello! I'm Md. Mahafujur Rahaman Masud, a passionate Software Engineer with a love for creating innovative and practical tech solutions. Currently, I’m pursuing my Bachelor of Science in Mathematics at Thakurgoan Govt College, where I’m sharpening my analytical skills that I apply to problem-solving in my work.
+With over a year of experience in Full Stack Web Development and a growing focus on React Native, I currently work at Code Act Soft as a Software Engineer. I’ve had the privilege of contributing to a variety of web and mobile app projects, bringing both creativity and technical precision to the table. Prior to this, I worked as a MERN Stack Developer at Aide Business Solution, where I honed my skills in developing efficient, scalable, and user-friendly web solutions.
 
-With over a year of experience in Full Stack Web Development and a growing focus on React Native, I work as a Software Engineer at Code Act Soft. Previously, I was a MERN Stack Developer at Aide Business Solution, where I contributed to a range of web projects, focusing on creativity and technical efficiency.
+Key Skills:
+* Full Stack Web Development (MERN Stack)
+* React Native (Mobile App Development)
+* Next.js, TypeScript, Node.js, Express.js
+* Prisma, Redux, MySQL, MongoDB
+* Problem Solving & Analytical Thinking
 
-I'm always eager to stay up-to-date with the latest tech trends, especially in web and mobile app development. Whether it's delivering web applications or building mobile apps, I thrive on solving real-world problems with clean, effective solutions.
-
-If you're into tech, want to collaborate, or just chat about new ideas, feel free to reach out—I'm always open to connecting with like-minded people!</p>
+I’m always excited to learn and stay up-to-date with the latest tech trends, particularly in web and mobile development. I thrive on turning ideas into clean, functional applications that solve real-world problems.
+I’m always open to connecting with like-minded professionals, collaborating on new projects, or just exchanging ideas. Feel free to reach out—I’d love to connect!</p>
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masud90895&label=Profile%20views&color=0e75b6&style=flat" alt="masud90895" /> </p>
