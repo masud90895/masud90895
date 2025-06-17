@@ -4,18 +4,25 @@
 
 <h3 align="center">Software Engineer | Full Stack & React Native Developer | Innovating Web and Mobile Solutions</h3>
 
-<p align="left">Hello! I'm Md. Mahafujur Rahaman Masud, a passionate Software Engineer with a love for creating innovative and practical tech solutions. Currently, I’m pursuing my Bachelor of Science in Mathematics at Thakurgoan Govt College, where I’m sharpening my analytical skills that I apply to problem-solving in my work.
-With over a year of experience in Full Stack Web Development and a growing focus on React Native, I currently work at Code Act Soft as a Software Engineer. I’ve had the privilege of contributing to a variety of web and mobile app projects, bringing both creativity and technical precision to the table. Prior to this, I worked as a MERN Stack Developer at Aide Business Solution, where I honed my skills in developing efficient, scalable, and user-friendly web solutions.
+<p align="left">Hello! I'm Md. Mahafujur Rahaman Masud, a passionate Software Engineer driven by the thrill of building innovative and practical tech solutions. I’m currently pursuing my Bachelor of Science in Mathematics at Thakurgoan Govt College, where I continue to sharpen my analytical thinking—something I apply daily in my development work.
+
+With over a year of experience in Full Stack Web Development and a growing interest in React Native, I’m currently working at LeadSync AI as a Senior Software Engineer, where I focus on building AI-powered web platforms that are fast, scalable, and user-friendly.
+
+Before this, I worked at Code Act Soft, where I contributed to both web and mobile projects using modern technologies and frameworks. Earlier in my journey, I was a MERN Stack Developer at Aide Business Solution, where I specialized in developing efficient, scalable, and impactful web applications.
 
 Key Skills:
-* Full Stack Web Development (MERN Stack)
-* React Native (Mobile App Development)
-* Next.js, TypeScript, Node.js, Express.js
-* Prisma, Redux, MySQL, MongoDB
-* Problem Solving & Analytical Thinking
 
-I’m always excited to learn and stay up-to-date with the latest tech trends, particularly in web and mobile development. I thrive on turning ideas into clean, functional applications that solve real-world problems.
-I’m always open to connecting with like-minded professionals, collaborating on new projects, or just exchanging ideas. Feel free to reach out—I’d love to connect!</p>
+Full Stack Web Development (MERN Stack)
+
+Next.js, TypeScript, Node.js, Express.js
+
+Prisma, Redux, MySQL, MongoDB
+
+React Native (Mobile App Development – personal/side projects)
+
+Problem Solving & Analytical Thinking
+
+I’m always excited to learn and stay current with the latest in web and mobile technology. I enjoy transforming ideas into clean, functional, and meaningful digital experiences. Whether it's collaborating on new projects or exchanging ideas—feel free to reach out. I’d love to connect!</p>
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masud90895&label=Profile%20views&color=0e75b6&style=flat" alt="masud90895" /> </p>
