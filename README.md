@@ -4,25 +4,28 @@
 
 <h3 align="center">Software Engineer | Full Stack & React Native Developer | Innovating Web and Mobile Solutions</h3>
 
-<p align="left">Hello! I'm a passionate Software Engineer who loves crafting innovative and practical tech solutions. Currently, I’m pursuing my Bachelor of Science in Mathematics at Thakurgoan Govt College, where I sharpen my analytical skills that I apply in software development.
+<div style="font-family: Arial, sans-serif; line-height: 1.6; color: #24292f;">
 
-I have over a year of experience in Full Stack Web Development with a growing focus on React Native. Currently, I work as a Senior Software Engineer at LeadSync AI, contributing to advanced web projects with creativity and technical precision.
 
-Previously, I worked at Code Act Soft as a Software Engineer, where I contributed to both web and mobile app projects. Before that, I worked as a MERN Stack Developer at Aide Business Solution, honing my skills in building efficient, scalable, and user-friendly web applications.
+  <p>Hello! I'm a passionate <strong>Software Engineer</strong> who loves crafting innovative and practical tech solutions. Currently, I’m pursuing my <strong>Bachelor of Science in Mathematics</strong> at Thakurgoan Govt College, where I sharpen my analytical skills that I apply in software development.</p>
 
-Key Skills
-Full Stack Web Development: MERN Stack (MongoDB, Express.js, React.js, Node.js)
+  <p>I have over a year of experience in <strong>Full Stack Web Development</strong> with a growing focus on <strong>React Native</strong>. Currently, I work as a <strong>Senior Software Engineer at LeadSync AI</strong>, contributing to advanced web projects with creativity and technical precision.</p>
 
-Mobile App Development: React Native (Personal projects)
+  <p>Previously, I worked at <strong>Code Act Soft</strong> as a Software Engineer, where I contributed to both web and mobile app projects. Before that, I worked as a <strong>MERN Stack Developer</strong> at <strong>Aide Business Solution</strong>, honing my skills in building efficient, scalable, and user-friendly web applications.</p>
 
-Frontend & Backend: Next.js, TypeScript, Node.js, Express.js
+  <h2 style="color: #0366d6; border-bottom: 2px solid #0366d6; padding-bottom: 4px;">Key Skills</h2>
 
-Database & State Management: Prisma, Redux, MySQL, MongoDB
+  <ul style="list-style-type: disc; padding-left: 20px; color: #444;">
+    <li><strong>Full Stack Web Development:</strong> MERN Stack (MongoDB, Express.js, React.js, Node.js)</li>
+    <li><strong>Mobile App Development:</strong> React Native (Personal projects)</li>
+    <li><strong>Frontend & Backend:</strong> Next.js, TypeScript, Node.js, Express.js</li>
+    <li><strong>Database & State Management:</strong> Prisma, Redux, MySQL, MongoDB</li>
+    <li><strong>Soft Skills:</strong> Strong problem-solving & analytical thinking</li>
+  </ul>
 
-Soft Skills: Strong problem-solving & analytical thinking
+  <p>I’m always eager to learn and keep up with the latest tech trends in web and mobile development. I enjoy turning ideas into clean, functional applications that solve real-world problems. Feel free to connect—I’m open to collaboration, new projects, or just sharing ideas!</p>
 
-I’m always eager to learn and keep up with the latest tech trends in web and mobile development. I enjoy turning ideas into clean, functional applications that solve real-world problems. Feel free to connect—I’m open to collaboration, new projects, or just sharing ideas!
-</p>
+</div>
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masud90895&label=Profile%20views&color=0e75b6&style=flat" alt="masud90895" /> </p>
