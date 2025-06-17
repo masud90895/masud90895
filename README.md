@@ -4,18 +4,24 @@
 
 <h3 align="center">Software Engineer | Full Stack & React Native Developer | Innovating Web and Mobile Solutions</h3>
 
-<p align="left">Hello! I'm Md. Mahafujur Rahaman Masud, a passionate Software Engineer with a love for creating innovative and practical tech solutions. Currently, I’m pursuing my Bachelor of Science in Mathematics at Thakurgoan Govt College, where I’m sharpening my analytical skills that I apply to problem-solving in my work. With over a year of experience in Full Stack Web Development and a growing focus on React Native, I currently work at LeadSync AI as a Senior Software Engineer. I’ve had the privilege of contributing to a variety of advanced web projects, bringing both creativity and technical precision to the table.
+<p align="left">Hello! I'm a passionate Software Engineer who loves crafting innovative and practical tech solutions. Currently, I’m pursuing my Bachelor of Science in Mathematics at Thakurgoan Govt College, where I sharpen my analytical skills that I apply in software development.
 
-Prior to this, I worked as a Software Engineer at Code Act Soft, where I contributed to several web and mobile app projects using modern technologies. Before that, I worked as a MERN Stack Developer at Aide Business Solution, where I honed my skills in developing efficient, scalable, and user-friendly web solutions.
+I have over a year of experience in Full Stack Web Development with a growing focus on React Native. Currently, I work as a Senior Software Engineer at LeadSync AI, contributing to advanced web projects with creativity and technical precision.
 
-**Key Skills:**
-› Full Stack Web Development (MERN Stack)
-› React Native – Mobile App Development (Personal Projects)
-› Next.js · TypeScript · Node.js · Express.js
-› Prisma · Redux · MySQL · MongoDB
-› Strong Problem-Solving & Analytical Thinking Skills
+Previously, I worked at Code Act Soft as a Software Engineer, where I contributed to both web and mobile app projects. Before that, I worked as a MERN Stack Developer at Aide Business Solution, honing my skills in building efficient, scalable, and user-friendly web applications.
 
-I’m always excited to learn and stay up-to-date with the latest tech trends, particularly in web and mobile development. I thrive on turning ideas into clean, functional applications that solve real-world problems. I’m always open to connecting with like-minded professionals, collaborating on new projects, or just exchanging ideas. Feel free to reach out—I’d love to connect!
+Key Skills
+Full Stack Web Development: MERN Stack (MongoDB, Express.js, React.js, Node.js)
+
+Mobile App Development: React Native (Personal projects)
+
+Frontend & Backend: Next.js, TypeScript, Node.js, Express.js
+
+Database & State Management: Prisma, Redux, MySQL, MongoDB
+
+Soft Skills: Strong problem-solving & analytical thinking
+
+I’m always eager to learn and keep up with the latest tech trends in web and mobile development. I enjoy turning ideas into clean, functional applications that solve real-world problems. Feel free to connect—I’m open to collaboration, new projects, or just sharing ideas!
 </p>
 <br/>
 
