@@ -9,7 +9,7 @@
 
   <p>Hello! I'm a passionate <strong>Software Engineer</strong> who loves crafting innovative and practical tech solutions. Currently, I’m pursuing my <strong>Bachelor of Science in Mathematics</strong> at Thakurgoan Govt College, where I sharpen my analytical skills that I apply in software development.</p>
 
-  <p>I have over a year of experience in <strong>Full Stack Web Development</strong> with a growing focus on <strong>React Native</strong>. Currently, I work as a <strong>Senior Software Engineer at LeadSync AI</strong>, contributing to advanced web projects with creativity and technical precision.</p>
+  <p>I have over 3.5 year of experience in <strong>Full Stack Web Development</strong> with a growing focus on <strong>React Native</strong>. Currently, I work as a <strong>Senior Software Engineer at LeadSync AI</strong>, contributing to advanced web projects with creativity and technical precision.</p>
 
   <p>Previously, I worked at <strong>Code Act Soft</strong> as a Software Engineer, where I contributed to both web and mobile app projects. Before that, I worked as a <strong>MERN Stack Developer</strong> at <strong>Aide Business Solution</strong>, honing my skills in building efficient, scalable, and user-friendly web applications.</p>
 
