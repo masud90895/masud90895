@@ -10,7 +10,7 @@
 
 <!-- ANIMATED TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=🚀+Senior+Software+Engineer+%40+LeadSync+AI+(Singapore);⚡+4.5%2B+Years+Full-Time+Engineering+Experience;🏗️+Multi-Tenant+SaaS+%7C+1M%2B+Messages%2FMonth+Scaled;📱+React+Native+%26+Expo+Mobile+Specialist;🔩+NestJS+%7C+Next.js+14+%7C+TypeScript+%7C+Redis;🧮+Mathematics+B.Sc.+→+Algorithmic+Engineering+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=🚀+Senior+Software+Engineer+%40+LeadSync+AI+(Singapore);⚡+4.5%2B+Years+Full-Time+Professional+Experience;🏗️+Scaled+SaaS+to+1M%2B+Messages%2FMonth+%7C+220ms+p95;📱+React+Native+%26+Expo+Mobile+Specialist;🔩+NestJS+%7C+Next.js+14+%7C+TypeScript+%7C+Redis+%7C+AWS;🧮+Math+B.Sc.+→+Algorithmic+Engineering+Mindset" alt="Typing SVG" />
 </p>
 
 <!-- PROFILE VIEWS + BADGES -->
