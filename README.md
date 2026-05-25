@@ -8,9 +8,11 @@
   <img src="https://i.ibb.co.com/5xYpY9Ph/Chat-GPT-Image-May-18-2026-07-17-28-PM.png" width="100%" />
 </div>
 
-<!-- ANIMATED TYPING SVG -->
+<!-- ANIMATED TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=🚀+Senior+Software+Engineer+%40+LeadSync+AI+(Singapore);⚡+4.5%2B+Years+Full-Time+Professional+Experience;🏗️+Scaled+SaaS+to+1M%2B+Messages%2FMonth+%7C+220ms+p95;📱+React+Native+%26+Expo+Mobile+Specialist;🔩+NestJS+%7C+Next.js+14+%7C+TypeScript+%7C+Redis+%7C+AWS;🧮+Math+B.Sc.+→+Algorithmic+Engineering+Mindset" alt="Typing SVG" />
+  <>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%9A%80%20Senior%20Software%20Engineer%20%40%20LeadSync%20AI%20(Singapore);%E2%9A%A1%204.5%2B%20Years%20Full-Time%20Professional%20Experience;%F0%9F%8F%97%EF%B8%8F%20Scaled%20SaaS%20to%201M%2B%20Messages%2FMonth%20%7C%20220ms%20p95;%F0%9F%93%B1%20React%20Native%20%26%20Expo%20Mobile%20Specialist;%F0%9F%94%A9%20NestJS%20%7C%20Next.js%2014%20%7C%20TypeScript%20%7C%20Redis%20%7C%20AWS;%F0%9F%A7%AE%20Math%20B.Sc.%20%E2%86%92%20Algorithmic%20Engineering%20Mindset" alt="Typing SVG" />
+  </>
 </p>
 
 <!-- PROFILE VIEWS + BADGES -->
