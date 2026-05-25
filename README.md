@@ -10,9 +10,9 @@
 
 <!-- ANIMATED TYPING -->
 <p align="center">
-  <>
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%9A%80%20Senior%20Software%20Engineer%20%40%20LeadSync%20AI%20(Singapore);%E2%9A%A1%204.5%2B%20Years%20Full-Time%20Professional%20Experience;%F0%9F%8F%97%EF%B8%8F%20Scaled%20SaaS%20to%201M%2B%20Messages%2FMonth%20%7C%20220ms%20p95;%F0%9F%93%B1%20React%20Native%20%26%20Expo%20Mobile%20Specialist;%F0%9F%94%A9%20NestJS%20%7C%20Next.js%2014%20%7C%20TypeScript%20%7C%20Redis%20%7C%20AWS;%F0%9F%A7%AE%20Math%20B.Sc.%20%E2%86%92%20Algorithmic%20Engineering%20Mindset" alt="Typing SVG" />
- 
+  </a>
 </p>
 
 <!-- PROFILE VIEWS + BADGES -->
