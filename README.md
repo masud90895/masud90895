@@ -343,10 +343,6 @@ That body of work spans a lot more ground than the public projects above:
   <img width="70%" src="https://streak-stats.demolab.com/?user=masud90895&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7c39&currStreakLabel=58a6ff" alt="Streak Stats" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/masud90895/masud90895/main/metrics/metrics.svg" alt="GitHub metrics — activity, contribution calendar and language breakdown" />
-</div>
-
 ---
 
 ## 📈 Contribution Activity
