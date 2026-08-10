@@ -156,7 +156,7 @@ Open to conversations about architecture, performance, mobile product challenges
       <br/><br/>
       Customers get their own mobile app: browse products, <b>track orders live</b>, pull up digital receipts, leave reviews, and earn through a built-in loyalty game — with push notifications and SMS keeping them in the loop.
       <br/><br/>
-      The desktop builds ship through <b>Tauri</b> with a <b>cryptographically signed auto-updater</b>, so venues get updates without IT involvement.
+      The desktop builds ship through <b>Tauri</b> with a <b>cryptographically signed auto-updater</b>, so venues get updates without IT involvement. Desktop installers and the internal tooling around them are distributed to clients only.
     </td>
   </tr>
 </table>
@@ -170,8 +170,8 @@ Open to conversations about architecture, performance, mobile product challenges
 | ⚙️ **Backend** | NestJS · Prisma · PostgreSQL · Argon2 · Helmet · Pino | REST API, RBAC, offline sync engine, push & SMS, structured logging |
 
 <p>
-  <a href="https://github.com/masud90895/pos-releases/releases">
-    <img src="https://img.shields.io/badge/⬇️_Download-Windows_%26_macOS-58a6ff?style=for-the-badge" />
+  <a href="https://play.google.com/store/apps/details?id=com.growvine.brewhaus">
+    <img src="https://img.shields.io/badge/Google_Play-Brewhaus-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=black" />
@@ -197,7 +197,7 @@ Open to conversations about architecture, performance, mobile product challenges
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📝 MemoScreen — Live Wallpaper Notes</h3>
+      <h3>📝 <a href="https://play.google.com/store/apps/details?id=com.memoscreen">MemoScreen</a> — Live Wallpaper Notes</h3>
       <p>Fully offline notepad &amp; todo app whose defining trick is a <b>custom Kotlin live-wallpaper service</b> that renders any note straight onto your home screen, re-rendering whenever the note changes — plus a native home-screen widget. Swipe-to-act task rows, dynamic theme palettes, 16 KB page alignment.</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native_0.77-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -242,7 +242,7 @@ Open to conversations about architecture, performance, mobile product challenges
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📄 VioResume — AI Resume SaaS</h3>
+      <h3>📄 <a href="https://vioresume.com/">VioResume</a> — AI Resume SaaS</h3>
       <p>Led the complete Next.js frontend for an AI-powered resume builder (NYC-based SaaS). ATS-optimised templates, real-time ATS scoring, drag-and-drop resume authoring, voice-led intake, smart job-matching with advanced filtering, and instant cover-letter pairing.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
@@ -256,16 +256,24 @@ Open to conversations about architecture, performance, mobile product challenges
 
 ---
 
-## 🔒 Under NDA
+## 🔒 Client Work Under Contract
 
-Some of my recent work can't be shown publicly due to client contracts. Among it:
+**Most of what I build never becomes public.** My team and I work under agreements with companies across Europe, Asia, and North America, and those contracts don't allow me to share source code, screenshots, product names, or client identities.
 
-| | Project | Stack |
-|---|---|---|
-| 🇳🇱 | **A Dutch HR & staffing SaaS** — multi-tenant platform built to Dutch labour law (Wet DBA, WAB, VBAR) with GDPR and EU AI Act compliance baked into the data model. Kafka event pipeline, Stripe billing, document verification, and a companion mobile app. | `NestJS` `Prisma` `Kafka` `Redis` `Stripe` `Next.js 16` `Expo` |
-| 🏢 | **An enterprise ERP platform** — attendance, leave, meetings, client records, invoicing, and payroll under one traceable approval chain, with multi-currency and multi-entity support. | `NestJS` `Argon2` `PostgreSQL` `Next.js 16` `next-intl` `Vitest` |
+That body of work spans a lot more ground than the public projects above:
 
-*Happy to talk through the architecture and my role — just [reach out](mailto:masudhossainmbs129@gmail.com).*
+| Domain | What that work looks like |
+|---|---|
+| 👥 **HR & Workforce Compliance** | Multi-tenant platforms built against national labour law, with GDPR and EU AI Act obligations designed into the data model rather than bolted on |
+| 🏢 **Enterprise ERP** | Attendance, leave, invoicing, payroll and client operations under a single traceable approval chain — multi-entity, multi-currency |
+| 📈 **B2B Sales & Marketing Automation** | Multi-channel outbound engines, CRM sync pipelines, and social automation platforms |
+| 🛒 **Commerce & Marketplaces** | Storefronts, configurators, inventory-aware merchandising, and payment integrations |
+| 🏭 **Internal Tooling** | Office, staffing, and operations systems that replace spreadsheets with auditable workflows |
+| 📱 **Mobile & Desktop Clients** | Companion apps and native desktop builds shipped privately to client organisations |
+
+**Typical stack across this work:** `NestJS` · `Next.js 16` · `React 19` · `Prisma` · `PostgreSQL` · `Redis` · `Kafka` · `Stripe` · `Expo` · `Tauri` · `AWS` · `Docker`
+
+*I can walk through architecture decisions, tradeoffs, and my specific role in a conversation — just [reach out](mailto:masudhossainmbs129@gmail.com).*
 
 ---
 
@@ -329,24 +337,14 @@ Some of my recent work can't be shown publicly due to client contracts. Among it
 
 ---
 
-## 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/masud90895/masud90895/main/metrics/calendar.svg" alt="Isometric contribution calendar" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=masud90895&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7c39&currStreakLabel=58a6ff" alt="Streak Stats" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=masud90895&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7c39&currStreakLabel=58a6ff" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/masud90895/masud90895/main/metrics/overview.svg" alt="GitHub Overview" />
-  &nbsp;
-  <img width="49%" src="https://raw.githubusercontent.com/masud90895/masud90895/main/metrics/languages.svg" alt="Most Used Languages" />
+  <img src="https://raw.githubusercontent.com/masud90895/masud90895/main/metrics/metrics.svg" alt="GitHub metrics — activity, contribution calendar and language breakdown" />
 </div>
 
 ---
