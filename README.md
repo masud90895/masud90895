@@ -5,7 +5,7 @@
 
 <!-- CAPSULE RENDER WAVE HEADER -->
 <div align="center">
-  <img src="https://i.ibb.co.com/j9rhV0sq/p.jpg" width="100%"  />
+  <img src="https://i.ibb.co.com/j9rhV0sq/p.jpg" width="100%" height="350" />
 </div>
 
 <!-- ANIMATED TYPING -->
