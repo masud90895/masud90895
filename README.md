@@ -209,7 +209,7 @@ Open to conversations about architecture, performance, mobile product challenges
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛍️ GlobalPiks — Commerce App</h3>
+      <h3>🛍️ <a href="https://play.google.com/store/apps/details?id=com.globalpiks">GlobalPiks</a> — Commerce App</h3>
       <p>Cross-platform shopping app on a <b>headless WordPress/WooCommerce</b> backend. Product catalogue with live review aggregation, cart &amp; checkout with pending-payment flows, favorites, and returns/privacy compliance pages. Packaged and submitted to Google Play.</p>
       <p>
         <img src="https://img.shields.io/badge/Expo_54-000020?style=flat-square&logo=expo&logoColor=white" />
