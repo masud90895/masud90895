@@ -5,7 +5,7 @@
 
 <!-- CAPSULE RENDER WAVE HEADER -->
 <div align="center">
-  <img src="https://i.ibb.co.com/5xYpY9Ph/Chat-GPT-Image-May-18-2026-07-17-28-PM.png" width="100%" />
+  <img src="https://i.ibb.co.com/YF6nwyyn/Chat-GPT-Image-Aug-11-2026-12-04-28-AM.png" width="100%" />
 </div>
 
 <!-- ANIMATED TYPING -->
