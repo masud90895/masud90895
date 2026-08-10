@@ -329,10 +329,10 @@ Some of my recent work can't be shown publicly due to client contracts. Among it
 
 ---
 
-## 🏆 Achievements
+## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/masud90895/masud90895/main/metrics/achievements.svg" alt="GitHub Achievements" />
+  <img src="https://raw.githubusercontent.com/masud90895/masud90895/main/metrics/calendar.svg" alt="Isometric contribution calendar" />
 </p>
 
 ---
