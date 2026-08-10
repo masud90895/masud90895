@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              MASUD — SENIOR SOFTWARE ENGINEER                  -->
-<!--              GitHub Profile README — 2025 Edition              -->
+<!--              MASUD — CO-FOUNDER & CTO, GROWVINE TECH           -->
+<!--              GitHub Profile README — 2026 Edition              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- CAPSULE RENDER WAVE HEADER -->
@@ -10,9 +10,13 @@
 
 <!-- ANIMATED TYPING -->
 <p align="center">
-  <a href="">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%9A%80%20Senior%20Software%20Engineer%20%40%20LeadSync%20AI%20(Singapore);%E2%9A%A1%204.5%2B%20Years%20Full-Time%20Professional%20Experience;%F0%9F%8F%97%EF%B8%8F%20Scaled%20SaaS%20to%201M%2B%20Messages%2FMonth%20%7C%20220ms%20p95;%F0%9F%93%B1%20React%20Native%20%26%20Expo%20Mobile%20Specialist;%F0%9F%94%A9%20NestJS%20%7C%20Next.js%2014%20%7C%20TypeScript%20%7C%20Redis%20%7C%20AWS;%F0%9F%A7%AE%20Math%20B.Sc.%20%E2%86%92%20Algorithmic%20Engineering%20Mindset" alt="Typing SVG" />
+  <a href="https://devmasud.tech">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=780&height=50&lines=%F0%9F%9A%80%20Co-founder%20%26%20CTO%20%40%20GrowVine%20Tech;%E2%9A%A1%205%2B%20Years%20Building%20Production%20Software;%F0%9F%8D%BD%EF%B8%8F%20Brewhaus%20POS%20%E2%80%94%20Web%20%2B%20macOS%20%2B%20Windows%20%2B%20Mobile;%F0%9F%93%B1%20React%20Native%20%26%20Expo%20%7C%205%20Apps%20Shipped;%F0%9F%94%A9%20NestJS%20%7C%20Next.js%2016%20%7C%20Tauri%20%7C%20Kafka%20%7C%20TypeScript;%F0%9F%92%AD%20Think%20clearly.%20Build%20quietly.%20Ship%20what%20lasts." alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <i>“Think clearly. Build quietly. Ship what lasts.”</i>
 </p>
 
 <!-- PROFILE VIEWS + BADGES -->
@@ -26,10 +30,10 @@
   </a>
   &nbsp;
   <a href="mailto:masudhossainmbs129@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="http://devmasud.tech">
+  <a href="https://devmasud.tech">
     <img src="https://img.shields.io/badge/Portfolio-devmasud.tech-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
@@ -38,42 +42,28 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **results-driven Senior Full-Stack & Mobile Developer** with over **4.5 years of full-time professional experience** architecting and delivering high-scale SaaS platforms, production-grade APIs, and cross-platform mobile applications serving global user bases. Expert in **React / Next.js, Node.js / NestJS, PostgreSQL, React Native, and cloud infrastructure on AWS**. I led architecture for a multi-tenant B2B SaaS platform serving **1M+ messages/month**, cutting p95 latency from **1.4s → 220ms**. Proven in agile delivery, code quality leadership, and cross-functional team mentorship.
+I'm **Md. Mahafujur Rahaman Masud** — **Co-founder & CTO at [GrowVine Tech](https://www.growvine.tech)**, with **5+ years** building production software across web, mobile, and desktop. I set technical direction, own architecture standards, and still ship code every day.
 
-### 🎓 Academic Foundation & Engineering Philosophy
+Before GrowVine I was **Senior Software Engineer at [LeadSync.ai](https://leadsync.ai/)** (Singapore), where I led architecture for a multi-tenant B2B outbound platform — scaling a production inbox to **1M+ messages/month** and cutting p95 latency from **1.4s → 220ms**. Before that, **Frontend Lead at VioResume** (NYC), owning the Next.js architecture for an AI-powered resume builder.
 
-My **B.Sc. in Mathematics** gives me a unique structural advantage — I translate complex logical reasoning and algorithmic thinking directly into clean, efficient, and scalable software systems. I don't just write code; I engineer solutions built to last. My mathematical background feeds into how I approach system design, performance optimization, and debugging complex distributed problems.
+My **B.Sc. in Mathematics** shapes how I work: I treat system design, performance, and debugging as structural problems, not guesswork. I care about software that stays correct under load and stays readable a year later.
 
-### 💻 What I Build
+### 🎯 What I Do
 
-**🔵 Frontend Architecture**
-I architect seamless, highly performant, and accessible user interfaces using **Next.js 14, React.js, and TypeScript**. I also have specialized expertise in engineering high-security **Manifest V3 Chrome Extensions** for enterprise-grade workflow automation — including one-click LinkedIn/Sales Navigator import with OAuth-aligned session continuity and hardened content-script boundaries.
+| | |
+|---|---|
+| 🏗️ **Full-Stack Platforms** | Multi-tenant SaaS with **Next.js 16 · React 19 · NestJS · Prisma · PostgreSQL · Redis · Kafka** |
+| 📱 **Mobile Products** | Cross-platform apps with **React Native & Expo** — offline-first, biometric, i18n. 5 apps shipped |
+| 🖥️ **Desktop Apps** | Native **macOS & Windows** builds with **Tauri** (Rust), including signed auto-updaters |
+| 🧩 **Browser Extensions** | Hardened **Manifest V3** Chrome extensions with OAuth-aligned session continuity |
+| ⚙️ **Delivery & Infra** | **AWS · Docker · GitHub Actions CI/CD · VPS/PM2 · Cloudflare Workers** — zero-downtime releases |
+| 🧭 **Fractional CTO** | Technical direction, architecture reviews, and team process for early-stage products |
 
-**🟠 Backend & Distributed Systems**
-I design and build secure, scalable backend services capable of handling massive data throughput. At LeadSync, I scaled a production inbox to handle **1M+ messages/month**, reducing p95 latency from **1.4s → 220ms** through Redis-backed queue optimizations and strategic database indexing. My backend stack includes **Node.js, NestJS, Prisma, PostgreSQL, MySQL, MongoDB, Redis, and Elasticsearch**.
+### 💬 Let's Connect
 
-**📱 Mobile Ecosystems**
-I take full ownership of mobile product lifecycles, engineering fluid cross-platform apps using **React Native and Expo**. My published app **TakaMinder** — a personal finance tracker for Bengali users — features 100% offline-first SQLite storage, conflict-aware encrypted Google Drive backup, and biometric vault protection with zero third-party tracking or ads.
+Open to conversations about architecture, performance, mobile product challenges, or fractional CTO work.
 
-**🤖 AI-Integrated Products**
-At VioResume (NYC-based SaaS), I led the full Next.js frontend for an AI-powered resume builder — integrating AI content generation, real-time ATS scoring, smart job-matching with advanced filtering, and dynamic voice-led intake flows. I care deeply about weaving intelligence into UX that actually helps people.
-
-**🚢 End-to-End Product Delivery**
-From launching **Renesa Bazar** (full-scale e-commerce with dynamic PC Builder & Camera Builder configurators, mega-category navigation, and inventory-aware merchandising) to architecting **LeadSync's** multi-channel B2B outbound automation with CRM sync pipelines for HubSpot, Salesforce, and Pipedrive — I deliver complete products without compromising performance or user experience.
-
-### 📐 Technical Leadership
-
-I define API design standards, rate-limiting strategies, and state management patterns across platforms. I mentor engineers through rigorous code reviews, establish WCAG accessibility compliance, maintain high-velocity agile release cycles, and lead zero-downtime migrations (including Next.js 14 App Router migration while maintaining shared API contracts across web, mobile, and Chrome extension simultaneously).
-
-### 🌱 Community & Continuous Growth
-
-Beyond my professional engineering roles, I am an active contributor to the **Deogaon Social Development Forum (DSD Forum)**, applying my digital organizational skills to lead record-keeping and community development initiatives. I'm constantly adapting — currently exploring **AI-augmented engineering workflows, distributed systems patterns, and advanced mobile animations with Reanimated 3**.
-
-### 💬 Let's Connect!
-
-I am always open to discussing software architecture, performance optimization, mobile product challenges, or innovative tech ideas. Whether it's a collaboration, a freelance project, or just a good engineering conversation — reach out anytime!
-
-📞 **+880 1745-296294** &nbsp;|&nbsp; ✉️ **masudhossainmbs129@gmail.com** &nbsp;|&nbsp; 🌐 **[devmasud.tech](http://devmasud.tech)**
+📞 **+880 1745-296294** &nbsp;|&nbsp; ✉️ **masudhossainmbs129@gmail.com** &nbsp;|&nbsp; 🌐 **[devmasud.tech](https://devmasud.tech)**
 
 ---
 
@@ -82,12 +72,27 @@ I am always open to discussing software architecture, performance optimization, 
 <table width="100%">
   <tr>
     <td width="130px" align="center">
-      <b>May 2025<br/>Present</b>
+      <b>May 2026<br/>Present</b>
+    </td>
+    <td>
+      <b>🟢 Co-founder &amp; CTO</b> — <a href="https://www.growvine.tech"><b>GrowVine Tech</b></a> &nbsp;<code>Dhaka, Bangladesh</code><br/>
+      <i>Product Engineering Studio — SaaS, Mobile &amp; Desktop</i><br/><br/>
+      • Set technical direction and architecture standards across every product line; own the delivery process end-to-end<br/>
+      • <b>Built Brewhaus POS single-handedly</b> — a restaurant management system spanning <b>web, macOS, Windows, and mobile</b>, with a NestJS backend and signed Tauri auto-updater<br/>
+      • Shipped <b>GlobalPiks</b> (headless-WordPress commerce app) and <b>MemoScreen</b> (offline notepad with a custom Android live-wallpaper native module)<br/>
+      • Delivered the GrowVine platform site on Next.js 16 + Payload CMS with self-hosted Umami analytics and full lead-journey attribution<br/>
+      • Lead engineering hiring, code review culture, and CI/CD standards for the team
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td width="130px" align="center">
+      <b>May 2025<br/>May 2026</b>
     </td>
     <td>
       <b>🔵 Senior Software Engineer</b> — <a href="https://leadsync.ai/"><b>LeadSync Pte. Ltd.</b></a> &nbsp;<code>Singapore (Remote)</code><br/>
-      <i>AI-Powered B2B Sales Automation & Lead Generation SaaS</i><br/><br/>
-      • Spearheaded end-to-end architecture of a multi-tenant B2B outbound platform: Next.js 14 frontend, NestJS backend, React Native mobile, and a Manifest V3 Chrome Extension<br/>
+      <i>AI-Powered B2B Sales Automation &amp; Lead Generation SaaS</i><br/><br/>
+      • Spearheaded end-to-end architecture of a multi-tenant B2B outbound platform: Next.js frontend, NestJS backend, React Native mobile, and a Manifest V3 Chrome Extension<br/>
       • <b>Scaled production inbox to 1M+ messages/month;</b> reduced p95 latency from <b>1.4s → 220ms</b> via Redis-backed queue optimizations and database indexing<br/>
       • Built centralized sequencing engine for multi-channel campaigns (LinkedIn + email) with real-time CRM sync for HubSpot, Salesforce, and Pipedrive<br/>
       • Engineered Manifest V3 Chrome Extension with hardened content-script boundaries, one-click LinkedIn/Sales Navigator import, and OAuth-aligned session continuity<br/>
@@ -100,9 +105,9 @@ I am always open to discussing software architecture, performance optimization, 
       <b>Feb 2024<br/>May 2025</b>
     </td>
     <td>
-      <b>⚪ Software Engineer</b> — <a href="https://vioresume.com/"><b>VioResume</b></a> &nbsp;<code>New York, USA (Remote)</code><br/>
+      <b>⚪ Frontend Lead</b> — <a href="https://vioresume.com/"><b>VioResume</b></a> &nbsp;<code>New York, USA (Remote)</code><br/>
       <i>AI-Powered Resume Builder SaaS</i><br/><br/>
-      • Led complete Next.js frontend architecture for a public-facing AI resume builder, owning UI from marketing site through the core application flow<br/>
+      • Owned the complete Next.js frontend architecture for a public-facing AI resume builder, from marketing site through the core application flow<br/>
       • Built a complex ATS resume authoring engine: dynamic ATS-optimised templates, real-time previews, drag-and-drop module management, and voice-led intake<br/>
       • Integrated AI-assisted content generation, real-time ATS scoring, smart job-matching with advanced filtering, and instant cover-letter pairing<br/>
       • Established state management patterns ensuring pixel-perfect responsiveness and WCAG accessibility; mentored junior developers in a high-velocity release cycle
@@ -116,7 +121,7 @@ I am always open to discussing software architecture, performance optimization, 
     <td>
       <b>⚪ Software Engineer</b> — <a href="https://bd.linkedin.com/company/codeact"><b>Codeact Soft.</b></a> &nbsp;<code>Dhaka, Bangladesh</code><br/>
       <i>Full-Stack Product Development</i><br/><br/>
-      • Led end-to-end development of <b>Renesa Bazar</b> (e-commerce platform) and <b>Hej Care</b>, delivering scalable user-centric products with full backend and frontend ownership<br/>
+      • Led end-to-end development of <b>Renesa Bazar</b> (e-commerce platform) and <b>Hej Care</b>, with full backend and frontend ownership<br/>
       • Designed secure RESTful APIs using Node.js, Express, and Prisma ORM over MySQL; optimised data retrieval for high-traffic endpoints<br/>
       • Developed and launched two production-grade cross-platform React Native applications on tight release schedules
     </td>
@@ -128,7 +133,7 @@ I am always open to discussing software architecture, performance optimization, 
     </td>
     <td>
       <b>⚪ MERN Stack Developer</b> — <b>Aide Business Solution</b> &nbsp;<code>Dhaka, Bangladesh (Remote)</code><br/>
-      <i>Enterprise ERP & E-Commerce</i><br/><br/>
+      <i>Enterprise ERP &amp; E-Commerce</i><br/><br/>
       • Engineered and maintained a full-stack e-commerce ERP dashboard, improving operational efficiency across inventory, orders, and reporting workflows<br/>
       • Architected RESTful APIs with TypeScript and Mongoose; managed complex MongoDB schemas for high-traffic enterprise data processing at scale<br/>
       • Crafted highly responsive React + Tailwind CSS applications, translating complex design systems into consistent, intuitive digital products
@@ -138,86 +143,97 @@ I am always open to discussing software architecture, performance optimization, 
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ☕ Featured Project — Brewhaus POS
 
-**Frontend & UI**
+> **One product. Four platforms. Built solo.**
+
+<table width="100%">
+  <tr>
+    <td>
+      <b>Brewhaus POS</b> is a complete restaurant management system I designed and built end-to-end at GrowVine Tech — from database schema to signed desktop installers.
+      <br/><br/>
+      Staff run the venue from wherever it makes sense — a manager on the web dashboard, a cashier on a Windows terminal, an owner on macOS — covering <b>ordering, catalogue, customer records, staff roles, device management, and reporting</b>, all against one NestJS API with an <b>offline-tolerant sync layer</b> so service never stops when the network does.
+      <br/><br/>
+      Customers get their own mobile app: browse products, <b>track orders live</b>, pull up digital receipts, leave reviews, and earn through a built-in loyalty game — with push notifications and SMS keeping them in the loop.
+      <br/><br/>
+      The desktop builds ship through <b>Tauri</b> with a <b>cryptographically signed auto-updater</b>, so venues get updates without IT involvement.
+    </td>
+  </tr>
+</table>
+
+| Platform | Stack | Notes |
+|---|---|---|
+| 🖥️ **Web** | Next.js 16 · React 19 · TypeScript | Manager dashboard & admin console |
+| 🍏 **macOS** | Tauri (Rust) | `.dmg` — Apple Silicon, signed auto-update |
+| 🪟 **Windows** | Tauri (Rust) | `.exe` + `.msi` x64, signed auto-update |
+| 📱 **Mobile** | Expo 57 · React Native 0.86 | Android & iOS customer app — order tracking, receipts, reviews |
+| ⚙️ **Backend** | NestJS · Prisma · PostgreSQL · Argon2 · Helmet · Pino | REST API, RBAC, offline sync engine, push & SMS, structured logging |
+
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,materialui,bootstrap&perline=10" />
+  <a href="https://github.com/masud90895/pos-releases/releases">
+    <img src="https://img.shields.io/badge/⬇️_Download-Windows_%26_macOS-58a6ff?style=for-the-badge" />
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=black" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js_16-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
-
-**Backend, APIs & Systems**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma,redis&perline=10" />
-  </a>
-</p>
-
-**Databases**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&perline=10" />
-  </a>
-</p>
-
-**Mobile, Cloud & DevOps**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,docker,aws,linux,git,github,vscode,figma&perline=10" />
-  </a>
-</p>
-
-<details>
-<summary>📋 Full Technical Skills Reference</summary>
-<br/>
-
-| Category | Skills |
-|---|---|
-| **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL |
-| **Frameworks** | React.js, Next.js 14, Node.js, NestJS, Express.js, Redux |
-| **Styling & ORM** | Tailwind CSS, Prisma ORM, Mongoose |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch |
-| **Mobile & Extensions** | React Native, Expo, Chrome Extension (Manifest V3) |
-| **Cloud & DevOps** | AWS, Docker, Vercel, Azure, CI/CD |
-| **Architecture** | REST API Design, Multi-Tenant SaaS, Microservices, WebSockets |
-| **Tools** | Git, GitHub, Postman, Figma, VS Code, Cursor |
-| **Soft Skills** | Agile/Scrum, Tech Leadership, Code Review, Mentorship |
-
-</details>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 More Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://leadsync.ai/">LeadSync.ai</a> — B2B SaaS</h3>
-      <p>Multi-tenant B2B outbound automation platform. Scaled inbox to <b>1M+ messages/month</b>, cutting p95 latency from <b>1.4s → 220ms</b>. Multi-channel campaigns (LinkedIn + email), CRM integrations (HubSpot, Salesforce, Pipedrive), zero-downtime Next.js 14 App Router migration.</p>
+      <h3>💰 <a href="https://play.google.com/store/apps/details?id=com.masud90895.takaminder">TakaMinder</a> — Finance App <code>v1.3.2</code></h3>
+      <p>Offline-first personal finance &amp; debt tracker for Bengali users. <b>100% on-device SQLite</b>, conflict-aware encrypted Google Drive backup, biometric vault, PDF reports, and full bn/en localisation. Zero tracking, zero ads. <b>Live on Google Play.</b></p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Expo_54-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/i18next-26A69A?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 MemoScreen — Live Wallpaper Notes</h3>
+      <p>Fully offline notepad &amp; todo app whose defining trick is a <b>custom Kotlin live-wallpaper service</b> that renders any note straight onto your home screen, re-rendering whenever the note changes — plus a native home-screen widget. Swipe-to-act task rows, dynamic theme palettes, 16 KB page alignment.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native_0.77-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Android_Native-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Offline_First-1f6feb?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ GlobalPiks — Commerce App</h3>
+      <p>Cross-platform shopping app on a <b>headless WordPress/WooCommerce</b> backend. Product catalogue with live review aggregation, cart &amp; checkout with pending-payment flows, favorites, and returns/privacy compliance pages. Packaged and submitted to Google Play.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Expo_54-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/WordPress_API-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://leadsync.ai/">LeadSync.ai</a> — B2B SaaS</h3>
+      <p>Multi-tenant B2B outbound automation platform. Scaled inbox to <b>1M+ messages/month</b>, cutting p95 latency from <b>1.4s → 220ms</b>. Multi-channel campaigns (LinkedIn + email), CRM integrations (HubSpot, Salesforce, Pipedrive), zero-downtime App Router migration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>💰 <a href="https://play.google.com/store/apps/details?id=com.masud90895.takaminder">TakaMinder</a> — Finance App</h3>
-      <p>Offline-first personal finance tracker for Bengali users. <b>100% on-device SQLite</b> storage, conflict-aware encrypted Google Drive backup, biometric vault protection. Zero third-party tracking or ads. Live on Google Play Store.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Drive_API-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
-      </p>
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🛒 <a href="https://renesabazar.com/">Renesa Bazar</a> — E-Commerce</h3>
-      <p>Full-scale e-commerce platform — customer storefront, admin console, and NestJS backend. Dynamic <b>PC Builder</b> & <b>Camera Builder</b> configurators, mega-category navigation, high-SKU search with sidebar facets, and inventory-aware merchandising zones.</p>
+      <p>Full-scale e-commerce platform — customer storefront, admin console, and backend. Dynamic <b>PC Builder</b> &amp; <b>Camera Builder</b> configurators, mega-category navigation, high-SKU search with sidebar facets, and inventory-aware merchandising zones.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
@@ -227,7 +243,7 @@ I am always open to discussing software architecture, performance optimization, 
     </td>
     <td width="50%" valign="top">
       <h3>📄 VioResume — AI Resume SaaS</h3>
-      <p>Led complete Next.js frontend for an AI-powered resume builder (NYC-based SaaS). ATS-optimised templates, real-time ATS scoring, drag-and-drop resume authoring, voice-led intake, smart job-matching with advanced filtering, and instant cover-letter pairing.</p>
+      <p>Led the complete Next.js frontend for an AI-powered resume builder (NYC-based SaaS). ATS-optimised templates, real-time ATS scoring, drag-and-drop resume authoring, voice-led intake, smart job-matching with advanced filtering, and instant cover-letter pairing.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -240,10 +256,83 @@ I am always open to discussing software architecture, performance optimization, 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔒 Under NDA
+
+Some of my recent work can't be shown publicly due to client contracts. Among it:
+
+| | Project | Stack |
+|---|---|---|
+| 🇳🇱 | **A Dutch HR & staffing SaaS** — multi-tenant platform built to Dutch labour law (Wet DBA, WAB, VBAR) with GDPR and EU AI Act compliance baked into the data model. Kafka event pipeline, Stripe billing, document verification, and a companion mobile app. | `NestJS` `Prisma` `Kafka` `Redis` `Stripe` `Next.js 16` `Expo` |
+| 🏢 | **An enterprise ERP platform** — attendance, leave, meetings, client records, invoicing, and payroll under one traceable approval chain, with multi-currency and multi-entity support. | `NestJS` `Argon2` `PostgreSQL` `Next.js 16` `next-intl` `Vitest` |
+
+*Happy to talk through the architecture and my role — just [reach out](mailto:masudhossainmbs129@gmail.com).*
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Frontend & UI**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css,materialui,vite&perline=10" />
+  </a>
+</p>
+
+**Backend, APIs & Systems**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,prisma,redis,kafka,rabbitmq&perline=10" />
+  </a>
+</p>
+
+**Databases**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase&perline=10" />
+  </a>
+</p>
+
+**Mobile & Desktop**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tauri,rust,kotlin,swift,androidstudio&perline=10" />
+  </a>
+</p>
+
+**Cloud & DevOps**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,linux,githubactions,git,vercel,figma&perline=10" />
+  </a>
+</p>
+
+<details>
+<summary>📋 Full Technical Skills Reference</summary>
+<br/>
+
+| Category | Skills |
+|---|---|
+| **Languages** | TypeScript, JavaScript (ES6+), SQL, HTML5, CSS3 |
+| **Frontend** | Next.js 16, React 19, Redux Toolkit, TanStack Query/Router, React Hook Form, Zod, Tailwind CSS, shadcn/ui, Framer Motion, GSAP |
+| **Backend** | Node.js, NestJS, Express.js, Prisma ORM, Mongoose, REST, GraphQL, WebSockets, Kafka, BullMQ |
+| **Databases** | PostgreSQL, MySQL, MongoDB, SQLite, Redis, Elasticsearch |
+| **Mobile** | React Native, Expo (SDK 54–57), Expo Router, NativeWind, Reanimated, MMKV, EAS Build, offline-first sync |
+| **Desktop & Extensions** | Tauri (Rust), Chrome Extension (Manifest V3) |
+| **Cloud & DevOps** | AWS, Docker, Vercel, Cloudflare Workers, Google Cloud Storage, VPS/PM2, GitHub Actions CI/CD |
+| **Auth & Security** | NextAuth, JWT, Argon2, bcrypt, RBAC, Helmet, rate limiting, GDPR patterns |
+| **Testing & Quality** | Vitest, Jest, Playwright, Testing Library, ESLint, Prettier, Husky, commitlint |
+| **Integrations** | Stripe, HubSpot, Salesforce, Pipedrive, Resend, LLM APIs, WordPress/WooCommerce, Payload CMS |
+| **Architecture** | Multi-Tenant SaaS, Microservices, Event-Driven Systems, API Design, i18n/l10n |
+| **Leadership** | Technical direction, Architecture reviews, Code review culture, Agile/Scrum, Mentorship |
+
+</details>
+
+---
+
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=masud90895&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://raw.githubusercontent.com/masud90895/masud90895/main/metrics/achievements.svg" alt="GitHub Achievements" />
 </p>
 
 ---
@@ -251,13 +340,13 @@ I am always open to discussing software architecture, performance optimization, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masud90895&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud90895&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=masud90895&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7c39&currStreakLabel=58a6ff" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=masud90895&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7c39&currStreakLabel=58a6ff" />
+  <img width="49%" src="https://raw.githubusercontent.com/masud90895/masud90895/main/metrics/overview.svg" alt="GitHub Overview" />
+  &nbsp;
+  <img width="49%" src="https://raw.githubusercontent.com/masud90895/masud90895/main/metrics/languages.svg" alt="Most Used Languages" />
 </div>
 
 ---
@@ -274,10 +363,11 @@ I am always open to discussing software architecture, performance optimization, 
 
 | | Focus |
 |---|---|
-| 🤖 | AI-augmented development workflows & LLM API integrations |
-| 📱 | Advanced React Native with Expo Router & Reanimated 3 |
-| 🏗️ | Distributed systems, message queues, microservices at scale |
-| ☁️ | AWS infrastructure, serverless architecture, advanced CI/CD |
+| 🦀 | Rust &amp; Tauri internals — deeper native desktop capability |
+| 🌊 | Event-driven architecture with Kafka — streams, exactly-once, schema evolution |
+| 🤖 | AI-augmented engineering workflows &amp; LLM API integrations |
+| 📱 | Advanced React Native — Expo Router, Reanimated, custom native modules |
+| ☁️ | Distributed systems, serverless architecture, advanced CI/CD |
 
 ---
 
@@ -318,7 +408,7 @@ I am always open to discussing software architecture, performance optimization, 
     <img src="https://img.shields.io/badge/Gmail-masudhossainmbs129-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="http://devmasud.tech">
+  <a href="https://devmasud.tech">
     <img src="https://img.shields.io/badge/Portfolio-devmasud.tech-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
@@ -344,6 +434,6 @@ I am always open to discussing software architecture, performance optimization, 
 </div>
 
 <p align="center">
-  <i>⚡ "The only constant in technology is change — and I thrive on engineering solutions that outlast trends."</i><br/>
+  <i>⚡ "Think clearly. Build quietly. Ship what lasts."</i><br/>
   <sub>📞 +880 1745-296294 &nbsp;|&nbsp; ✉️ masudhossainmbs129@gmail.com &nbsp;|&nbsp; 🌐 devmasud.tech</sub>
 </p>
